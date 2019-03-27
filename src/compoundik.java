@@ -18,5 +18,6 @@ public class compoundik
 
 
         System.out.println(P*Math.exp(r*t));
+        System.out.println("Push test");
     }
 }
