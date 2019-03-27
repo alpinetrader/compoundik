@@ -14,7 +14,7 @@ public class compoundik
        double P = Double.parseDouble(args[1]);  // dollars
        double r = Double.parseDouble(args[2]);  // annual interest rate
 
-
+//just for test
 
 
         System.out.println(P*Math.exp(r*t));
